@@ -1,0 +1,17 @@
+{
+  "name": "csv",
+  "version": "1.0.0",
+  "description": "this is for parsing product tiles in csv file to the desired spec.",
+  "main": "productFilter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hung che chen, jason",
+  "license": "ISC",
+  "dependencies": {
+    "csv-writer": "^1.5.0",
+    "csvwriter": "^1.3.0",
+    "fast-csv": "^3.4.0",
+    "fs": "0.0.1-security"
+  }
+}
